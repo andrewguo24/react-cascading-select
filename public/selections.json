@@ -1,0 +1,67 @@
+{
+  "selections": [
+    {
+      "id": "0",
+      "primary": "Selection_1",
+      "subSelections": [
+        {
+          "id": "0",
+          "label": "whatsoever 1.1",
+          "value": "1.1"
+        },
+        {
+          "id": "1",
+          "label": "whatsoever 1.2",
+          "value": "1.2"
+        },
+        {
+          "id": "3",
+          "label": "whatsoever 1.3",
+          "value": "1.3"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "primary": "Selection_2",
+      "subSelections": [
+        {
+          "id": "0",
+          "label": "whatsoever 2.1",
+          "value": "2.1"
+        },
+        {
+          "id": "1",
+          "label": "whatsoever 2.2",
+          "value": "2.2"
+        },
+        {
+          "id": "2",
+          "label": "whatsoever 2.3",
+          "value": "2.2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "primary": "Selection_3",
+      "subSelections": [
+        {
+          "id": "0",
+          "label": "whatsoever 3.1",
+          "value": "3.1"
+        },
+        {
+          "id": "1",
+          "label": "whatsoever 3.2",
+          "value": "3.2"
+        },
+        {
+          "id": "3",
+          "label": "whatsoever 3.3",
+          "value": "3.3"
+        }
+      ]
+    }
+  ]
+}
